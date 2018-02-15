@@ -1,4 +1,4 @@
-# **NGINX** docker container for **Angular** applications
+# **NGINX** docker container to host **Angular** applications
 
 ## 1.  Reproduce it
 
